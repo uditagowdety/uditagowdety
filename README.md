@@ -4,7 +4,7 @@
 
 ---
 
-## 🌃 currently working on + learning about + fascinated by:
+## 🌃 i'm currently working on + learning about + fascinated by:
 - 🧑‍🤝‍🧑 **human-centered technology**
 - 🧠 **ai + ethics**
 - 🔐 **building safer and more reliable tech, accessible to all**
