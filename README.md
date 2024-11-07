@@ -5,12 +5,11 @@
 ---
 
 ## 🌃 i'm currently working on + learning about + fascinated by:
-- 🧑‍🤝‍🧑 **human-centered technology**
+- 🧑‍🤝‍🧑 **human-computer interaction**
 - 🎨 **ui/ux + graphic design** 
-- 🧠 **ai + ethics**
-- 🔐 **building safer and more reliable tech, accessible to all**
+- 🧠 **ai + ethics + philosophy**
 - 🎭 **interactive media arts**
-- 🤖 **ai + philosophy**
+- 🔐 **building safer and more reliable tech, accessible to all**
 
 ---
 
