@@ -1,4 +1,4 @@
-# hi! i'm udita gowdety
+# hi! i'm udita :)
 
 ✨ **art** + **science** + **tech** + **design** ✨
 
