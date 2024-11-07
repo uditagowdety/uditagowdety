@@ -6,6 +6,7 @@
 
 ## 🌃 i'm currently working on + learning about + fascinated by:
 - 🧑‍🤝‍🧑 **human-centered technology**
+- 🎨 **ui/ux design**
 - 🧠 **ai + ethics**
 - 🔐 **building safer and more reliable tech, accessible to all**
 - 🎭 **interactive media arts**
