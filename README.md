@@ -1,14 +1,15 @@
-# hi! i'm udita :)
+# hi! i'm udita :) 🖼️ 
 
 ✨ **art** + **science** + **tech** + **design** ✨
 
 ---
 
-## 👩‍🔬 currently working on + learning about + fascinated by
+## 🌃 currently working on + learning about + fascinated by:
 - 🧑‍🤝‍🧑 **human-centered technology**
 - 🧠 **ai + ethics**
 - 🔐 **building safer and more reliable tech, accessible to all**
 - 🎭 **interactive media arts**
+- 🤖 **ai + philosophy**
 
 ---
 
