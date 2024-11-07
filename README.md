@@ -1,27 +1,27 @@
-# 👩‍💻 Udita Gowdety
+# 👩‍💻 udita gowdety
 
-✨ **Art** + **Science** + **Tech** + **Design** ✨
-
----
-
-## 👩‍🔬 Currently Working on + Learning About + Fascinated by
-- 🧑‍🤝‍🧑 **Human-centered Technology**
-- 🧠 **AI + Ethics**
-- 🔐 **Building Safer and More Reliable Tech, Accessible to All**
-- 🎭 **Interactive Media Arts**
+✨ **art** + **science** + **tech** + **design** ✨
 
 ---
 
-## 🎯 You can find me at:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/uditagowdety)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge)](mailto:uditagowdety@example.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=for-the-badge)](https://instagram.com/mixed.monet)
+## 👩‍🔬 currently working on + learning about + fascinated by
+- 🧑‍🤝‍🧑 **human-centered technology**
+- 🧠 **ai + ethics**
+- 🔐 **building safer and more reliable tech, accessible to all**
+- 🎭 **interactive media arts**
 
 ---
 
-## 🎶 What I'm Listening To:
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=cv1gd9qrpu9uixj0do6c1bg2c&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://open.spotify.com/user/yourspotifyusername)
+## 🎯 you can find me at:
+[![linkedin](https://img.shields.io/badge/-linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/uditagowdety)
+[![email](https://img.shields.io/badge/-email-red?logo=gmail&style=for-the-badge)](mailto:uditagowdety@example.com)
+[![instagram](https://img.shields.io/badge/-instagram-purple?logo=instagram&style=for-the-badge)](https://instagram.com/mixed.monet)
 
 ---
 
-*Made with ❤️ by Udita Gowdety*
+## 🎶 what i'm listening to:
+[![spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/udita<3)
+
+---
+
+*made with ❤️ by udita gowdety*
