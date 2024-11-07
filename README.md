@@ -15,10 +15,10 @@
 
 ## 📌 new here?
 
-### 💻 some of my repos:
+💻 **some of my repos**:
 - [kannada character recognition tool](https://github.com/uditagowdety/kannada-character-recognition)
 
-### 💖 repos i love:
+💖 **repos i love**:
 - [awesome creative coding!](https://github.com/terkelg/awesome-creative-coding)
 
 ---
