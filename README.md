@@ -17,4 +17,4 @@ I'm a computer science student and creative developer passionate about AI, desig
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uditagowdety&show_icons=true)
