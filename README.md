@@ -21,5 +21,3 @@
 ---
 
 *made with ❤️ by udita gowdety*
-![Profile Views](https://komarev.com/ghpvc/?username=uditagowdety&color=blue)
-
