@@ -1,7 +1,5 @@
 # 👩‍💻 Udita Gowdety
-🎨 **Artist** • 🔍 **Researcher** • 💼 **Professional Daydreamer** 
 
-## Who I am
 ✨ **Art** + **Science** + **Tech** + **Design** ✨
 
 ---
