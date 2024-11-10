@@ -18,6 +18,7 @@
 💻 **some of my repos**:
 - [kannada character recognition tool](https://github.com/uditagowdety/kannada-character-recognition)
 - [genetic algorithm-based mastermind solver](https://github.com/uditagowdety/mastermind-solver)
+- [creative coding projects](https://github.com/uditagowdety/creative-coding-projects)
 
 💖 **repos i love**:
 - [awesome creative coding!](https://github.com/terkelg/awesome-creative-coding)
