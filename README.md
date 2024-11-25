@@ -12,7 +12,7 @@
 - 🔐 **building safer and more reliable tech, accessible to all**
 
 ---
-## 📌 new here?
+## 📌 if you're new here, welcome!
 
 💻 **some of my work**:
 - [kannada character recognition tool](https://github.com/uditagowdety/kannada-character-recognition)
