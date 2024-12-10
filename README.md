@@ -50,12 +50,8 @@
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&style=for-the-badge&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&style=for-the-badge&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&style=for-the-badge&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&style=for-the-badge&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=for-the-badge&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&style=for-the-badge&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/-R-276DC3?logo=r&style=for-the-badge&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=for-the-badge&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&style=for-the-badge&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&style=for-the-badge&logoColor=white" alt="OpenCV">
