@@ -36,6 +36,10 @@
 ## 💻 languages + frameworks:
 
 <p align="left">
+  <img src="https://img.shields.io/badge/-p5.js-ED225D?logo=p5dotjs&style=for-the-badge&logoColor=white" alt="p5.js">
+  <img src="https://img.shields.io/badge/-ml5.js-FFDD00?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAA8CAYAAAAdu4E1AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABeUlEQVRoge2ZMWrDMBRFV1IDBwogILAIoAAogBGwH2AX0BZAC4ACCAvI7NpIlVoNlv1TdoObVJJ5MZ2PuXPW0kzzfwfglFkiRJkiRJG+Ru1cYrUJa40jqg2GlkF1kR82IKlyrDFVUWakPRfrUeDjlEZcqDGvFy1XCsboOb7gWBLzXNgBU1RVUQaVUp4ICiDm00U7AdUChS4Xrm0VXZpBqjPmsUBcTKmHCZin6ZCHV0vo4BDawVsn0F50OGI3I4kCtAkqMTc9EHjggRVeIXEvPRBtYUIaM3e9GnIT2OIbA2uIGQfNXCooAIuGIhj8mHGkCpCCUI4aOZbDIJaPCUdgfOg3c0DrxlAv7hAEZijHEiXAUwbHpCGAQVoTHHckBuPBKuBiCB1RhjnCuBxoRHn0OHOWZIhFzEDP7gw4YAdWhOEEGnAfahScsCGQFjQEfXcPmnCUAmGAfdPgRXaEk7UEQWmN4kn3j4HS6CBgYHdgRLKgDEAsBAjQhEAAAwQmUiZN16IUBAAAAAElFTkSuQmCC&style=for-the-badge&logoColor=black" alt="ml5.js">
+  <img src="https://img.shields.io/badge/-Processing-006699?logo=processingfoundation&style=for-the-badge&logoColor=white" alt="Processing">
+  <img src="https://img.shields.io/badge/-TouchDesigner-1E1E1E?logo=derivative&style=for-the-badge&logoColor=white" alt="TouchDesigner">
   <img src="https://img.shields.io/badge/-C-00599C?logo=c&style=for-the-badge&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=for-the-badge&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&style=for-the-badge&logoColor=white" alt="Java">
