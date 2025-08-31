@@ -1,73 +1,54 @@
-# hi! i'm udita :) ✮ 🖼️ 
+# Hi, I'm Udita Gowdety 🌏  
 
-✨ **art** + **science** + **tech** + **design** ✨
+💡 **Creative Technologist | Design Researcher**  
+I work at the intersections of **Art, Science, Technology, Design, and Culture** — where the weird lives and the future begins.  
+
+I’m interested in how humans build meaning into machines, and how machines, in turn, shape us. My work spans **Speculative Design, Human–AI Interaction, Storytelling, and Immersive Art.** Sometimes that means training small language models on my own journals, and sometimes that means creating generative simulations in TouchDesigner that feel like a love letter to code.  
+
+🔗 **Visit my website → [uditagowdety.com](https://uditagowdety.com)**  
+---
+
+## 🌸 Current Work
+- ✧ **Author & Editor of RAREGARDEN** — an independent speculative research publication released monthly → [raregarden.vercel.app](https://raregarden.vercel.app)  
+- ✧ Exploring research in **Human–Computer Interaction, Design Futures, and Digital Humanities**  
+- ✧ Building interactive tools, creative coding experiments, and speculative prototypes that ask: *what else could technology be?*  
 
 ---
 
-## 🌃 i'm currently working on + learning about + fascinated by:
-- 🧑‍🤝‍🧑 **human-computer interaction**
-- 🎨 **ui/ux + graphic design** 
-- 🧠 **ai + ethics + philosophy**
-- 🎭 **interactive media arts**
-- 🔐 **building safer and more reliable tech, accessible to all**
-
----
-## 📌 if you're new here, welcome!
-
-💻 **some of my work**:
-- [kannada character recognition tool](https://github.com/uditagowdety/kannada-character-recognition)
-- [genetic algorithm-based mastermind solver](https://github.com/uditagowdety/mastermind-solver)
-- [creative coding projects](https://github.com/uditagowdety/creative-coding-projects)
-
-💖 **repos i love**:
-- [awesome creative coding!](https://github.com/terkelg/awesome-creative-coding)
-- [machine learning for artists](https://github.com/ml5js/Intro-ML-Arts-IMA-F24)
-- [coding/dev roadmap resources](https://github.com/jwasham/coding-interview-university)
+## 📚 Research + Work Interests
+Speculative Design ✧ Human–AI Interaction ✧ Computational Media ✧ TouchDesigner ✧ Generative Art ✧ Small Language Models ✧ Hybrid Publishing ✧ Digital Poetics ✧ Design Futures ✧ Cultural Theory ✧ Immersive Media ☆彡  
 
 ---
 
-## 🎯 ways to reach out:
-[![linkedin](https://img.shields.io/badge/-linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/uditagowdety)
-[![email](https://img.shields.io/badge/-email-red?logo=gmail&style=for-the-badge)](mailto:uditagowdety@gmail.com)
-[![instagram](https://img.shields.io/badge/-instagram-purple?logo=instagram&style=for-the-badge)](https://instagram.com/mixed.monet)
+## 🚀 Featured Projects
+- 🖼️ [Genuary 2025 - Generative Coding Art](https://github.com/uditagowdety/genuary-2025)
+- ✍️ [Internet Oracle - Browser Extension](https://github.com/uditagowdety/internet-oracle-extension) 
+- 🧩 [Other Creative Coding Projects](https://github.com/uditagowdety/creative-coding-projects)  
+ 
+---
+
+## 🌱 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/uditagowdety)  
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge)](mailto:uditagowdety@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=for-the-badge)](https://instagram.com/mixed.monet)  
 
 ---
 
-## 💻 languages + frameworks:
-
+## 🛠️ Languages + Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/-p5.js-ED225D?logo=p5dotjs&style=for-the-badge&logoColor=white" alt="p5.js">
-  <img src="https://img.shields.io/badge/-ml5.js-FFDD00?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAA8CAYAAAAdu4E1AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABeUlEQVRoge2ZMWrDMBRFV1IDBwogILAIoAAogBGwH2AX0BZAC4ACCAvI7NpIlVoNlv1TdoObVJJ5MZ2PuXPW0kzzfwfglFkiRJkiRJG+Ru1cYrUJa40jqg2GlkF1kR82IKlyrDFVUWakPRfrUeDjlEZcqDGvFy1XCsboOb7gWBLzXNgBU1RVUQaVUp4ICiDm00U7AdUChS4Xrm0VXZpBqjPmsUBcTKmHCZin6ZCHV0vo4BDawVsn0F50OGI3I4kCtAkqMTc9EHjggRVeIXEvPRBtYUIaM3e9GnIT2OIbA2uIGQfNXCooAIuGIhj8mHGkCpCCUI4aOZbDIJaPCUdgfOg3c0DrxlAv7hAEZijHEiXAUwbHpCGAQVoTHHckBuPBKuBiCB1RhjnCuBxoRHn0OHOWZIhFzEDP7gw4YAdWhOEEGnAfahScsCGQFjQEfXcPmnCUAmGAfdPgRXaEk7UEQWmN4kn3j4HS6CBgYHdgRLKgDEAsBAjQhEAAAwQmUiZN16IUBAAAAAElFTkSuQmCC&style=for-the-badge&logoColor=black" alt="ml5.js">
-  <img src="https://img.shields.io/badge/-Processing-006699?logo=processingfoundation&style=for-the-badge&logoColor=white" alt="Processing">
-  <img src="https://img.shields.io/badge/-TouchDesigner-1E1E1E?logo=derivative&style=for-the-badge&logoColor=white" alt="TouchDesigner">
-  <img src="https://img.shields.io/badge/-C-00599C?logo=c&style=for-the-badge&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=for-the-badge&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&style=for-the-badge&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&style=for-the-badge&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=for-the-badge&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&style=for-the-badge&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&style=for-the-badge&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&style=for-the-badge&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&style=for-the-badge&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&style=for-the-badge&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&style=for-the-badge&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=for-the-badge&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&style=for-the-badge&logoColor=black" alt="React Native">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=for-the-badge&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=for-the-badge&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&style=for-the-badge&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&style=for-the-badge&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&style=for-the-badge&logoColor=white" alt="LaTeX">
-</p>
+  <img src="https://img.shields.io/badge/-p5.js-ED225D?logo=p5dotjs&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/-TouchDesigner-1E1E1E?logo=derivative&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&style=for-the-badge&logoColor=white">
+  <!-- Add the rest of your stack here -->
+</p>  
 
 ---
 
-*made with ❤️ by udita gowdety*
+*Made with love by Udita Gowdety*  
 
-![profile visits](https://komarev.com/ghpvc/?username=uditagowdety&color=blue)
+![Profile Visits](https://komarev.com/ghpvc/?username=uditagowdety&color=blue)
